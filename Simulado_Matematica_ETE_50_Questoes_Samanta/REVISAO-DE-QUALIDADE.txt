@@ -1,0 +1,65 @@
+REVISÃO ANALÍTICA E CONTROLE DE QUALIDADE
+Simulado de Matemática — Curso Preparatório Professora Samanta
+
+ESCOPO E PROCEDÊNCIA
+- O banco contém exatamente 50 questões: 20 itens do conjunto anteriormente elaborado (versão A) e 30 questões transcritas das imagens do WhatsApp.
+- Não foram acrescentados enunciados novos.
+- Cada questão contém quatro alternativas distintas, um índice de gabarito válido e uma resolução comentada.
+
+REVISÃO MATEMÁTICA E DE ENUNCIADOS
+- Foram conferidas as operações, proporções, conversões de unidades, equações, sistemas, áreas, ângulos, médias e demais cálculos presentes nos 50 itens.
+- Foram conferidos o alinhamento entre enunciado, alternativas, alternativa correta e comentário de resolução.
+- A questão 34 teve a expressão temporal “atualmente” substituída por “em um levantamento posterior”, evitando que o enunciado envelheça quando o arquivo for reutilizado.
+- As questões 24, 27, 31 e 41 permanecem sem gráficos auxiliares, pois as versões anteriores eram incoerentes ou desnecessárias.
+- Nas questões 25, 30, 32, 34, 37, 43, 44, 45 e 46 não há painéis de “relação matemática”, cálculos intermediários ou pistas que antecipem a estratégia/resultado.
+
+DISTRIBUIÇÃO DO CONTEÚDO E OBSERVAÇÕES PEDAGÓGICAS
+- A classificação interna para o diagnóstico ficou assim: áreas/perímetros/geometria (9); aritmética/frações/potências (6); álgebra/sistemas (7); razão/proporção/regra de três (7); ângulos/polígonos (7); grandezas/medidas/velocidade (6); porcentagem/matemática financeira (4); médias/interpretação de dados (4).
+- A cobertura não é numericamente igual entre as áreas, pois o conjunto foi preservado a partir das questões já elaboradas e das capturas do WhatsApp. O relatório por conteúdo mostra o número de questões respondidas e alerta quando há poucas respostas.
+- Há aproximações de habilidade no conjunto original: Q4 e Q44 trabalham relações entre trabalhadores e tempo; Q12 e Q41 exploram divisão diretamente proporcional. Foram mantidas porque pertencem às fontes solicitadas e não são enunciados idênticos.
+
+REVISÃO DAS REPRESENTAÇÕES
+- Questão 13: a posição de α foi ajustada para formar, com 55°, um par correto de ângulos internos alternos.
+- Questão 16: o texto alternativo da figura foi neutralizado para descrever o desenho sem antecipar a razão entre os triângulos.
+- Questão 17: a altura do trapézio e o marcador de perpendicularidade permanecem associados corretamente à base.
+- Questão 18: a figura foi organizada com parede vertical, chão horizontal e ângulo reto no encontro dessas duas direções; 5 m, 12 m e a hipotenusa estão identificados sem sobreposição.
+- Questão 20: a tabela de dados foi preservada, sem painel auxiliar que resolva ou organize a conta pelo estudante.
+- Questão 29: a malha quadriculada e os cinco polígonos foram preservados em tamanho ampliado, sem título redundante, legenda de resolução ou observação de escala.
+- Questão 35: o desenho foi reconstruído com m e n paralelas, r e s perpendiculares e os ângulos de 20° e α em seus vértices correspondentes.
+- As demais figuras foram verificadas quanto à correspondência com o texto, posição dos rótulos e ausência de sobreposição com o enunciado.
+- As imagens de apoio são diagramas SVG construídos no próprio projeto; não foram usadas imagens ilustrativas geradas por IA.
+
+APRESENTAÇÃO E ORGANIZAÇÃO
+- As questões não exibem conteúdo, fonte, descrição editorial ou nível de dificuldade.
+- Foram removidos os campos administrativos de fonte e dificuldade do banco entregue. A classificação por conteúdo permanece apenas como dado interno para o diagnóstico final.
+- Não há “Apoio para organizar os dados”, “Relação matemática”, “Representação visual” nem “Figura esquemática, sem escala obrigatória” nas questões.
+- Quando uma questão não possui tabela ou figura, o espaço visual vazio é ocultado para evitar lacunas.
+- O CSS mantém os elementos gráficos no fluxo normal do documento para impedir sobreposição com o enunciado.
+
+REVISÃO DO SISTEMA DE AVALIAÇÃO
+- Navegação numerada, salvamento individual, contagem de respostas, conferência e entrega mantidos.
+- O cronômetro começa ao iniciar a prova e o tempo final é gravado na entrega.
+- O gabarito comentado permanece bloqueado até a entrega.
+- O gráfico circular foi corrigido para representar o setor de acertos e o restante do total de 50 questões.
+- O percentual geral considera as 50 questões; questões em branco não contam como acerto. Os percentuais por conteúdo consideram somente as questões respondidas naquela área, com itens em branco informados separadamente.
+- O plano de estudo evita classificar uma área como facilidade/dificuldade quando há menos de duas respostas válidas naquela área.
+
+TESTES ESTÁTICOS
+- 50 IDs sequenciais e únicos.
+- Quatro alternativas distintas por questão.
+- Índices de gabarito válidos e comentários de resolução presentes.
+- Sintaxe JavaScript verificada com Node.js.
+- Caminhos de CSS, JavaScript e logo conferidos dentro da estrutura do projeto.
+- Navegação multipágina e armazenamento local permanecem implementados para uso offline.
+
+OBSERVAÇÃO
+O diagnóstico é uma orientação pedagógica gerada a partir deste conjunto de 50 itens, e não uma avaliação psicométrica padronizada. Como a quantidade de questões por conteúdo varia, percentuais com poucos itens devem ser interpretados com cautela; o sistema sinaliza quando há poucas respostas para sustentar uma conclusão.
+
+ATUALIZAÇÕES VISUAIS — REVISÃO SOLICITADA EM 08/11/2026
+- Questão 12: removida a representação em blocos, pois repetia visualmente a informação numérica sem acrescentar dado necessário.
+- Questão 14: substituídas as expressões algébricas sobrepostas no desenho pelas letras gregas α, β e γ. O enunciado agora identifica explicitamente a correspondência entre cada letra e a expressão, sem revelar o resultado.
+- Questão 28: o sinal de interrogação da figura foi substituído por γ, e o enunciado identifica essa letra como o terceiro ângulo. Os valores de 37° e 83° permanecem claros e sem sobreposição.
+- Questão 35: o rótulo da reta r foi ampliado, colocado em posição mais afastada da reta paralela n e recebeu maior contraste, sem alterar a relação geométrica.
+- Questão 38: removida a tabela redundante, pois os valores necessários já constam integralmente no enunciado.
+- Questão 50: ampliados os arcos que indicam os ângulos nas duas interseções e reforçada a legibilidade dos rótulos 55° e α. A relação de ângulos correspondentes foi preservada.
+- A página inicial (index.html) foi mantida com o parágrafo editorial removido e o botão “Iniciar Prova” centralizado.

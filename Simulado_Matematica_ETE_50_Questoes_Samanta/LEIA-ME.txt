@@ -1,0 +1,40 @@
+SIMULADO DE MATEMÁTICA — ETE | CURSO PREPARATÓRIO PROFESSORA SAMANTA
+
+COMO USAR
+1. Extraia o conteúdo completo do arquivo ZIP para uma pasta.
+2. Abra index.html em uma janela do navegador.
+3. Leia as instruções e clique em “Iniciar Prova”.
+4. Selecione uma alternativa e clique em “Salvar resposta”.
+5. Use a numeração para navegar. As respostas salvas ficam cinza.
+6. Clique em “Conferir respostas” para revisar o que foi salvo.
+7. Clique em “Entregar respostas” para encerrar o cronômetro e liberar o resultado.
+
+ARQUIVOS
+- index.html: instruções e início/retomada da prova.
+- prova.html: questionário com 50 questões.
+- resultados.html: desempenho, gráfico, estudo orientado e gabarito comentado.
+- css/styles.css: identidade visual e layout responsivo.
+- js/questions.js: banco de questões e respostas corretas.
+- js/shared.js: salvamento local, cronômetro e estado da tentativa.
+- js/index.js, js/exam.js e js/results.js: interações das páginas.
+- assets/: logo do Curso Preparatório Professora Samanta.
+- REVISAO-DE-QUALIDADE.txt: síntese da revisão pedagógica, matemática, visual e técnica.
+
+ORIGEM DO BANCO
+O simulado utiliza 20 questões da versão A elaborada anteriormente na conversa e 30 questões transcritas das imagens do WhatsApp. Não foram criados novos enunciados. O texto foi ajustado pontualmente para eliminar ambiguidade e as figuras foram reconstruídas em SVG/HTML.
+
+REVISÃO DE QUALIDADE
+- Removidos rótulos de conteúdo, fonte e nível de dificuldade da área das questões.
+- Removidas relações matemáticas, contas intermediárias e representações que antecipavam resultados.
+- Mantida a tabela de dados da questão 20.
+- Mantida e ampliada a malha quadriculada da questão 29.
+- Revistos os diagramas de geometria das questões 13, 16, 17, 18, 35, 49 e 50.
+- Removidas figuras que revelavam o número de lados ou que tinham rótulos contraditórios.
+- O diagnóstico por conteúdo considera apenas as questões respondidas; as questões em branco são indicadas separadamente.
+- O cronômetro é iniciado ao clicar em “Iniciar Prova” e encerrado ao entregar as respostas.
+
+PRIVACIDADE E ARMAZENAMENTO
+As respostas são mantidas no navegador utilizado. Em navegadores que bloqueiam localStorage para arquivos locais, o projeto usa o nome da janela como alternativa durante a navegação na mesma janela. Não há envio dos dados a um servidor.
+
+OBSERVAÇÃO
+Mantenha a estrutura de pastas. Não abra os arquivos HTML isoladamente fora da pasta extraída, pois CSS, JavaScript e a logo são carregados a partir das subpastas.
