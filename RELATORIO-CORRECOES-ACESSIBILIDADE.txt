@@ -1,0 +1,42 @@
+RELATÓRIO DE CORREÇÕES — ACESSIBILIDADE E NAVEGAÇÃO
+Simulado de Matemática — Curso Preparatório Professora Samanta
+Data: 14/11/2026
+
+ESCOPO
+Foram corrigidos os três pontos de usabilidade e acessibilidade identificados na auditoria anterior. As 50 questões, seus enunciados, alternativas e gabaritos foram preservados. Não houve alteração do banco de questões nem da chave de armazenamento v3.
+
+1. NAVEGAÇÃO EM CELULARES
+- O cronômetro e a barra de progresso aparecem no topo da área de prova.
+- O enunciado e suas alternativas aparecem logo depois, sem serem empurrados para baixo pela grade de 50 números.
+- A grade numérica foi agrupada no controle nativo “Navegação por questões” (details/summary). Em telas de até 850 px, começa recolhida e pode ser aberta pelo aluno. Em telas maiores, permanece expandida na lateral.
+- O comportamento acompanha o redimensionamento da janela.
+
+2. SELEÇÃO DAS ALTERNATIVAS
+- Os botões de alternativa foram substituídos por inputs type=radio nativos, agrupados em fieldset e identificados por uma legend acessível.
+- O nome anunciado inclui a letra e o texto da alternativa; o estado selecionado é exposto pelo próprio controle de rádio.
+- O aviso de seleção e de salvamento usa role=status e aria-live=polite.
+- A barra de progresso informa o total de respostas salvas por role=progressbar e aria-valuenow/aria-valuemax. Os botões numerados atualizam os seus nomes acessíveis e indicam a questão atual com aria-current.
+
+3. CONFERÊNCIA DE RESPOSTAS
+- Cada linha clicável da conferência foi substituída por um botão HTML nativo.
+- O botão informa a questão e a alternativa registrada e pode ser acionado por mouse, Enter ou Espaço, usando o comportamento nativo do navegador.
+- Ao abrir a conferência, o foco vai para o título da seção. Ao abrir uma questão a partir da lista ou da navegação, o foco é conduzido ao enunciado.
+- A lista usa estrutura ul/li, com os controles interativos dentro dos itens.
+
+TESTES EXECUTADOS
+- Análise sintática de todos os arquivos JavaScript com Node.js: aprovada.
+- Verificação estrutural dos documentos HTML: sem erros de aninhamento detectados.
+- Teste funcional automatizado em Chromium em 1280 px e 390 px: aprovado.
+- Verificada a ordem dos elementos na tela mobile: cronômetro/progresso, enunciado, navegação recolhida.
+- Verificados os estados aberto/fechado da navegação em mobile e desktop.
+- Confirmada a existência de 50 botões de navegação e a seleção/salvamento de alternativa via rádio.
+- Confirmadas cinco alternativas (A–E) nas questões 27, 31 e 32.
+- Confirmada a leitura da resposta salva na conferência e a reabertura da questão correspondente.
+- Confirmada a movimentação do foco para o enunciado após navegar e para o título ao abrir a conferência.
+- Nenhum erro JavaScript ou erro de console foi registrado durante os testes.
+
+LIMITES DA VALIDAÇÃO
+Os testes confirmam a estrutura semântica, os estados e o comportamento dos controles no Chromium. Não foi realizada sessão manual com NVDA, JAWS, VoiceOver ou TalkBack; portanto, a confirmação final da experiência com cada leitor de tela ainda depende de teste nesses ambientes. A limitação preexistente de armazenamento quando localStorage está bloqueado não foi alterada nesta etapa.
+
+CONCLUSÃO
+Os três pontos solicitados foram corrigidos. O conteúdo e o gabarito das 50 questões foram mantidos. A versão está pronta para nova avaliação do usuário.
