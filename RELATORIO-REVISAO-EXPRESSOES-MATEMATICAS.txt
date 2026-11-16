@@ -1,0 +1,41 @@
+REVISÃO DE EXPRESSÕES MATEMÁTICAS E LEGIBILIDADE
+Simulado de Matemática — Curso Preparatório Professora Samanta
+Atualização: 15/11/2026
+
+1. AJUSTE PRINCIPAL — QUESTÃO 31
+A expressão 5/∛2 estava escrita com barra de divisão e caractere de raiz cúbica dentro do texto comum. As alternativas também eram cadeias lineares, o que dificultava distinguir numeradores, denominadores e o índice da raiz.
+
+Ajustes realizados:
+- Enunciado: fração 5 sobre raiz cúbica de 2, com estrutura vertical.
+- Alternativas A e B: produto por raiz cúbica com o índice 3 apresentado como índice do radical.
+- Alternativas C, D e E: frações com numerador e denominador visualmente separados.
+- Resolução: passos matemáticos em linhas separadas, mostrando a multiplicação pelo fator racionalizante, a raiz cúbica de 8 no denominador e o resultado final.
+- A mesma apresentação é usada na página de resultados e no gabarito comentado.
+- As alternativas possuem equivalentes textuais para leitores de tela.
+
+A equivalência matemática foi mantida: (5/∛2) × (∛4/∛4) = (5∛4)/∛8 = (5∛4)/2. A alternativa correta continua sendo E.
+
+2. OUTROS PONTOS ENCONTRADOS E CORRIGIDOS
+- Q23: as alternativas B e D continham 1/5 e 1/25, respectivamente. Ambas agora aparecem como frações empilhadas, sem deslocar as opções. O gabarito continua sendo B (1/5).
+- Q1: 2/7 e 1/3 apareciam no enunciado e na resolução como texto com barra. Agora aparecem como frações estruturadas.
+- Q33: os cálculos 100/(40 × 7), 5/14 e 150/14 apareciam na resolução como texto linear. Foram formatados como frações, mantendo a multiplicação no denominador explícita.
+- Q36: x/3, 2x/3 e 3/2 apareciam na resolução como texto linear. Foram formatados como frações estruturadas.
+
+3. VARREDURA DAS DEMAIS EXPRESSÕES
+Foram procuradas frações com barra, raízes, potências, expressões algébricas e unidades elevadas. As questões 8, 11, 14, 18, 19, 27 e 32 apresentam potências, radicais ou expressões algébricas em notação linear Unicode; na revisão, não apresentaram o mesmo risco de confusão entre numerador/denominador e índice do radical encontrado na Q31. Permaneceram como estavam.
+
+4. PRESERVAÇÃO DO SIMULADO
+- 50 questões e IDs sequenciais preservados.
+- Quantidade de alternativas preservada: quatro nas questões originais e cinco nas questões 27, 31 e 32.
+- Índices de gabarito, textos-base e critérios de correção preservados.
+- A formatação matemática adicional não altera os valores armazenados usados na correção.
+- Sem bibliotecas externas ou necessidade de conexão à internet: a apresentação usa MathML nativo do navegador.
+
+5. VERIFICAÇÕES EXECUTADAS NESTA ATUALIZAÇÃO
+- Sintaxe de questions.js, exam.js e results.js verificada com Node.js.
+- Estrutura dos dados: 50 IDs, quantidade de alternativas, índices de gabarito e tamanho dos arrays de formatação conferidos.
+- Todas as expressões MathML adicionadas foram verificadas quanto à estrutura XML.
+- Confirmado que a formatação rica está vinculada às alternativas corretas da Q23 e da Q31.
+- Confirmado que os gabaritos B da Q23 e E da Q31 foram preservados.
+
+Limite: esta etapa de formatação recebeu validação estática dos dados, do MathML e da sintaxe JavaScript. Não foi feita nova sessão visual manual com leitores de tela. Recomenda-se conferir o arquivo no navegador de destino antes de publicar.
