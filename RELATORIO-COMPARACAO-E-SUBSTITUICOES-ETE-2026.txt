@@ -1,0 +1,42 @@
+RELATÓRIO — COMPARAÇÃO E SUBSTITUIÇÕES DO SIMULADO ETE 2026
+Data: 17/11/2026
+
+ESCOPO
+- Banco do site: 50 questões.
+- Comparação com os quatro arquivos PDF da Aula 16 — Simulados A, B, C e D.
+- Consulta dos arquivos de questões reunidos em 2023.zip e 2024.zip.
+
+RESULTADO
+Foram identificados 20 modelos de questão em comum com os simulados A–D. Dois modelos apareciam em mais de um item do banco do site: proporcionalidade entre trabalhadores e tempo (questões 9 e 40) e ângulos em retas paralelas cortadas por transversal (questões 31 e 49). Para remover todas as ocorrências, foram substituídos 22 itens do site.
+
+QUESTÕES SUBSTITUÍDAS E ORIGEM DOS NOVOS ITENS
+
+ID 1 — 2024.zip, captura IMG-20231205-WA0068.jpg: problema de economia com gastos sucessivos e valor restante. Gabarito: R$ 140,00.
+ID 4 — 2024.zip, captura IMG-20231205-WA0076.jpg: comparação entre pagamento à vista com desconto de 17% e pagamento a prazo com acréscimo de 25%. Gabarito: R$ 588,00 de diferença.
+ID 6 — 2023.zip, captura WhatsApp Image 2025-01-02 at 08.37.38.jpeg: cálculo de um número sabendo que 15% dele corresponde a 45. Gabarito: 300.
+ID 9 — 2024.zip, captura IMG-20231205-WA0105.jpg: produção de cercas com variação de trabalhadores, jornada diária e extensão construída. Gabarito: 24 dias.
+ID 11 — 2024.zip, captura IMG-20231205-WA0078.jpg: tempo para percorrer 10 km a 8 km/h. Gabarito: 75 minutos.
+ID 14 — 2024.zip, captura IMG-20231205-WA0068.jpg: desperdício de água de um chuveiro que goteja 125 mL a cada meia hora. Gabarito: 6 litros por dia.
+ID 16 — 2024.zip, captura IMG-20231205-WA0070.jpg: interpretação de pesquisa de preferência esportiva entre 500 estudantes. Gabarito: 60 estudantes preferem atletismo.
+ID 19 — 2024.zip, captura IMG-20231205-WA0100.jpg: simplificação do produto de potências de mesma base com expoente negativo. Gabarito: 3.
+ID 21 — 2024.zip, captura IMG-20231205-WA0084.jpg: determinação de um número a partir de operações sucessivas. Gabarito: 30.
+ID 24 — 2024.zip, captura IMG-20231205-WA0069.jpg: soma dos valores pagos em parcelas por um carro e uma moto. Gabarito: R$ 91.776,00.
+ID 26 — 2024.zip, captura IMG-20231205-WA0087.jpg: soma da produção diária de uma fábrica de doces, apresentada em tabela. Gabarito: 14.811 unidades.
+ID 29 — 2024.zip, captura IMG-20231205-WA0103.jpg: aumento de 25% seguido de desconto de 15% sobre o preço reajustado. Gabarito: R$ 85,00.
+ID 31 — 2024.zip, captura IMG-20231205-WA0083.jpg: ângulos formados por duas paralelas cortadas por uma transversal. Gabarito: 155°.
+ID 34 — 2023.zip, captura WhatsApp Image 2025-01-02 at 08.44.01 (1).jpeg: divisão de um ângulo reto em duas partes algébricas. Gabarito: x = 12.
+ID 36 — 2024.zip, captura IMG-20231205-WA0064.jpg: área de um losango construído dentro de um retângulo. Gabarito: 400 cm².
+ID 39 — 2024.zip, captura IMG-20231205-WA0081.jpg: determinação da hipotenusa de um triângulo retângulo com catetos 30 cm e 40 cm. Gabarito: 50 cm.
+ID 40 — 2023.zip, captura WhatsApp Image 2025-01-02 at 08.44.01 (2).jpeg: cálculo do combustível necessário para percorrer 300 km com rendimento de 15 km/L. Gabarito: 20 litros.
+ID 41 — 2024.zip, captura IMG-20231205-WA0172.jpg: identificação da unidade correta para expressar o volume de um paralelepípedo com arestas em centímetros. Gabarito: centímetro cúbico.
+ID 44 — 2024.zip, captura IMG-20231205-WA0103.jpg: comparação entre o preço à vista de um sofá e o total parcelado. Gabarito: R$ 310,00 a mais no parcelamento.
+ID 47 — 2024.zip, captura IMG-20231205-WA0104.jpg: distância percorrida em cinco voltas de uma pista circular. Gabarito: 942 m.
+ID 49 — 2024.zip, captura IMG-20231205-WA0086.jpg: identificação da unidade adequada para expressar o perímetro de um retângulo medido em centímetros. Gabarito: centímetro.
+ID 50 — 2024.zip, captura IMG-20231205-WA0060.jpg: determinação de um dado ausente em uma tabela usando média aritmética. Gabarito: 22 mm.
+
+OBSERVAÇÕES DE REVISÃO
+- As questões selecionadas foram reescritas no formato do site, com enunciados autossuficientes e alternativas próprias.
+- Os itens visuais que dependiam de imagens foram representados por tabelas acessíveis dentro da interface, sem depender de imagens externas.
+- Foram conferidos os cálculos e os índices de resposta correta dos 22 itens substituídos.
+- A quantidade total de questões permanece 50. Os IDs foram preservados para manter a estrutura de navegação e o armazenamento da prova.
+- O escopo da auditoria foi a repetição de enunciados/modelos de resolução em relação aos simulados A–D. Questões que apenas compartilham um conteúdo amplo, mas exigem outro raciocínio, não foram classificadas automaticamente como repetidas.
